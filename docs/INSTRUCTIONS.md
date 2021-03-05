@@ -11,11 +11,10 @@ In de opdracht Zoek-een-spannend-boek-bij-de-OBA leer je in een workshop hoe je 
 
 Leertaak: Werk voor een opdrachtgever een interactie uit met externe data. Deze leertaak hoort bij sprint 8 "Keep Users in Control". Dit is een immitatietaak, hierna kun je een experimenteer opdracht doen.
 
-
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
 
-Ontwerp en maak een zoekresultatenpagina voor de Openbare Bibliotheek Amsterdam (OBA).
+Ontwerp voor de OBA een zoekresultatenpagina met spannende boeken.
 
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
