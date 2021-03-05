@@ -1,4 +1,4 @@
-# Zoek een spannend boek bij de OBA
+# Zoek een spannend boek in de OBA collectie
 
 In de opdracht Zoek-een-spannend-boek-bij-de-OBA leer je in een workshop hoe je JSON data laden en tonen op een pagina.
 
