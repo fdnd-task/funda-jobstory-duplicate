@@ -31,7 +31,7 @@ Aan de hand van een Job Story gaan we met de OBA-API zoekresultaten tonen.
 
 > "Als ik een boek zoek wil ik een lijst spannende boeken te zien krijgen, die geschikt zijn voor mijn leeftijd."
 
-Deze opdracht gaat over de alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
 ### Analyseren
 *In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.* 
