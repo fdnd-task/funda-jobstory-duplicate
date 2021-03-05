@@ -5,21 +5,22 @@ In de opdracht Zoek-een-spannend-boek-bij-de-OBA leer je hoe je JSON data laden 
     Moet de workshop met dezelfde OBA data werken? Of juist andere data? Voor de autonome leertaak is het beter als er andere data wordt gebruikt, anders kun je bijna alles ehrgebruiken en dan is het geen passende autonome leertaak ...
 
 ## Context
-    De context is hoe deze opdracht in de sprint past, welke leertaak het is en welk [niveau](#niveau-van-een-leertaak) de leertaak heeft.
+    Wat schrijven we hier?
+    Hoe deze opdracht in de sprint past, welke leertaak het is en welk niveau de leertaak heeft?
 
 - Leertaak: Werk voor een opdrachtgever een interactie uit met externe data.
 - Sprint 8 'keep Users In Control".
 - [Immitatietaak](#niveau-van-een-leertaak) in een workshop.
 
 ## Briefing
-    In de briefing staat wat de opdracht is en wat de opdrachtgever wil. 
+*In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
 
 - Gebruiker vult een zoek formulier in
 - JSON data laden en tonen op een pagina
 
 ## Doel van deze opdracht
     Wat schrijven we hier?
-    Wat leren de studenten relatie tot de focus van deze sprint.
+    Wat leren de studenten relatie tot de focus van deze sprint?
 
 In deze taak ga je leren hoe je met JS externe data kan laden en gebruiken om zoekresulaten te presenteren.
 
