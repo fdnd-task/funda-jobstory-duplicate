@@ -1,6 +1,6 @@
 # Zoek een spannend boek in de OBA collectie
 
-In de opdracht Zoek-een-spannend-boek-in-de-OBA-collectie leer je in een workshop hoe je JSON data laden en tonen op een pagina.
+In de opdracht Zoek-een-spannend-boek-in-de-OBA-collectie leer je in een workshop hoe je JSON data kan laden en tonen op een pagina.
 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
@@ -9,7 +9,9 @@ In de opdracht Zoek-een-spannend-boek-in-de-OBA-collectie leer je in een worksho
 - Sprint 8 'keep Users In Control".
 - [Immitatietaak](#niveau-van-een-leertaak) in een workshop.
 
-Leertaak: Werk voor een opdrachtgever een interactie uit met externe data. Deze leertaak hoort bij sprint 8 "Keep Users in Control". Dit is een immitatietaak, hierna kun je een experimenteer opdracht doen.
+Leertaak: Werk voor een opdrachtgever een interactie uit met externe data. 
+Deze leertaak hoort bij sprint 8 "Keep Users in Control". 
+Dit is een immitatietaak, hierna kun je een experimenteer opdracht doen.
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
