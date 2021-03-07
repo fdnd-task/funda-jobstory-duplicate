@@ -1,6 +1,6 @@
 # Zoek een spannend boek in de OBA collectie
 
-In de opdracht Zoek-een-spannend-boek-in-de-OBA-collectie leer je in een workshop hoe je JSON data kan laden en tonen op een pagina.
+Voor de opdracht Zoek-een-spannend-boek-in-de-OBA-collectie leer je in een workshop hoe je JSON data kan laden en tonen op een pagina.
 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
